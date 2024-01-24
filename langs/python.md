@@ -1,0 +1,9 @@
+Numpy
+pandas
+Matplotlib
+seaborn
+scikit-learn
+pytorch
+tensorflow
+RAPIDS.ai
+cuDF/cuML
